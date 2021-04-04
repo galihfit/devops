@@ -2,3 +2,4 @@ ini latihan branch
   ini latihan branch dan merge
 belajar belajar cloud
   ini belajar cloud computing
+Belajar struktur devops
