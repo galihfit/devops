@@ -7,4 +7,6 @@ Belajar struktur devops
 Belajar mengenai Kubernetes
 Belajar Virtual Private Cloud
 Belajar Load Balancher
+Belajar Jenkins
+Belajar Ansible
 
