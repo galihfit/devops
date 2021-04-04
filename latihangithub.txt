@@ -1,3 +1,5 @@
 Ini latihan untuk :
 - Menggunakan github untuk program TED Academy DevOps
 - Menggunakan aplikasi git
+- Mengkoneksikan git di Laptop dengan github
+- Kolaborasi dengan lebih banyak expert
