@@ -5,3 +5,4 @@ belajar belajar cloud
 Belajar struktur devops
 Belajar mengenai Kubernetes
 Belajar Virtual Private Cloud
+Belajar Load Balancher
