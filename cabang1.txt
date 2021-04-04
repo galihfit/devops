@@ -3,3 +3,6 @@ ini latihan branch
 belajar belajar cloud
   ini belajar cloud computing
 Belajar struktur devops
+Belajar mengenai Kubernetes
+Belajar Virtual Private Cloud
+Belajar Load Balancher
