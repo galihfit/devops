@@ -3,3 +3,4 @@ Ini latihan untuk :
 - Menggunakan aplikasi git
 - Mengkoneksikan git di Laptop dengan github
 - Kolaborasi dengan lebih banyak expert
+- Latihan-latihan DevOps
